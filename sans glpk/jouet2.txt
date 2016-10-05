@@ -1,0 +1,6 @@
+best fit : 6
+pour ranger : 6 3 
+nombre de bin necessaires : 6
+motif0(1 1 ) : 6 ; motif1(0 2 ) : 0 ; 
+temps de calcul : 0 secondes
+nombre de noeud parcourus : 7

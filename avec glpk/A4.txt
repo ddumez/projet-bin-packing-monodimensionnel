@@ -1,0 +1,19 @@
+Writing problem data to 'bin-packin.lp'...
+24 lines were written
+GLPK Simplex Optimizer, v4.52
+4 rows, 9 columns, 15 non-zeros
+      0: obj =   0.000000000e+00  infeas =  2.800e+01 (0)
+*     5: obj =   1.300000000e+01  infeas =  0.000e+00 (0)
+*     6: obj =   1.250000000e+01  infeas =  0.000e+00 (0)
+OPTIMAL LP SOLUTION FOUND
+GLPK Integer Optimizer, v4.52
+4 rows, 9 columns, 15 non-zeros
+9 integer variables, none of which are binary
+Integer optimization begins...
++     6: mip =     not found yet >=              -inf        (1; 0)
+Solution found by heuristic: 13
++     6: mip =   1.300000000e+01 >=     tree is empty   0.0% (0; 1)
+INTEGER OPTIMAL SOLUTION FOUND
+il faut 13 bin
+motif0 ( 1 0 1 0 ) : 5 ; motif1 ( 1 0 0 1 ) : 2 ; motif2 ( 0 2 0 0 ) : 3 ; motif3 ( 0 1 1 0 ) : 0 ; motif4 ( 0 1 0 2 ) : 0 ; motif5 ( 0 0 3 0 ) : 0 ; motif6 ( 0 0 2 1 ) : 0 ; motif7 ( 0 0 1 2 ) : 0 ; motif8 ( 0 0 0 3 ) : 0 ; 
+Temps : 0.000000

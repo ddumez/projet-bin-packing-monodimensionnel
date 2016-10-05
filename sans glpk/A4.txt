@@ -1,0 +1,6 @@
+best fit : 13
+pour ranger : 7 8 5 8 
+nombre de bin necessaires : 13
+motif0(0 1 0 2 ) : 4 ; motif1(0 2 0 0 ) : 2 ; motif2(1 0 1 0 ) : 7 ; motif3(0 0 3 0 ) : 0 ; motif4(1 0 0 1 ) : 0 ; motif5(0 0 2 1 ) : 0 ; motif6(0 0 1 2 ) : 0 ; motif7(0 0 0 3 ) : 0 ; motif8(0 1 1 0 ) : 0 ; 
+temps de calcul : 0.017 secondes
+nombre de noeud parcourus : 691

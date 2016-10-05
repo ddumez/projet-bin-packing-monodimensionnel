@@ -1,0 +1,19 @@
+Writing problem data to 'bin-packin.lp'...
+136 lines were written
+GLPK Simplex Optimizer, v4.52
+9 rows, 80 columns, 188 non-zeros
+      0: obj =   0.000000000e+00  infeas =  8.200e+01 (0)
+*    11: obj =   3.006666667e+01  infeas =  0.000e+00 (0)
+*    16: obj =   2.870000000e+01  infeas =  0.000e+00 (0)
+OPTIMAL LP SOLUTION FOUND
+GLPK Integer Optimizer, v4.52
+9 rows, 80 columns, 188 non-zeros
+80 integer variables, none of which are binary
+Integer optimization begins...
++    16: mip =     not found yet >=              -inf        (1; 0)
+Solution found by heuristic: 29
++    17: mip =   2.900000000e+01 >=     tree is empty   0.0% (0; 3)
+INTEGER OPTIMAL SOLUTION FOUND
+il faut 29 bin
+motif0 ( 1 0 1 0 0 0 0 0 0 ) : 0 ; motif1 ( 1 0 0 1 0 0 0 0 0 ) : 1 ; motif2 ( 1 0 0 0 1 0 0 0 0 ) : 0 ; motif3 ( 1 0 0 0 0 1 0 0 0 ) : 0 ; motif4 ( 1 0 0 0 0 0 1 0 0 ) : 0 ; motif5 ( 1 0 0 0 0 0 0 1 1 ) : 9 ; motif6 ( 1 0 0 0 0 0 0 0 2 ) : 0 ; motif7 ( 0 2 0 0 0 0 0 0 0 ) : 3 ; motif8 ( 0 1 1 0 0 0 0 0 0 ) : 0 ; motif9 ( 0 1 0 1 0 0 0 0 0 ) : 0 ; motif10 ( 0 1 0 0 1 0 0 0 0 ) : 0 ; motif11 ( 0 1 0 0 0 1 0 0 1 ) : 0 ; motif12 ( 0 1 0 0 0 0 1 0 1 ) : 0 ; motif13 ( 0 1 0 0 0 0 0 1 1 ) : 0 ; motif14 ( 0 1 0 0 0 0 0 0 2 ) : -2147483648 ; motif15 ( 0 0 2 0 0 0 0 0 1 ) : 1 ; motif16 ( 0 0 1 1 0 0 0 0 1 ) : 1 ; motif17 ( 0 0 1 0 1 0 0 1 0 ) : 1 ; motif18 ( 0 0 1 0 1 0 0 0 1 ) : 1 ; motif19 ( 0 0 1 0 0 2 0 0 0 ) : 1 ; motif20 ( 0 0 1 0 0 1 1 0 0 ) : 1 ; motif21 ( 0 0 1 0 0 1 0 1 0 ) : 1 ; motif22 ( 0 0 1 0 0 1 0 0 1 ) : 1 ; motif23 ( 0 0 1 0 0 0 2 0 0 ) : 0 ; motif24 ( 0 0 1 0 0 0 1 1 0 ) : 0 ; motif25 ( 0 0 1 0 0 0 1 0 1 ) : 0 ; motif26 ( 0 0 1 0 0 0 0 2 0 ) : 0 ; motif27 ( 0 0 1 0 0 0 0 1 1 ) : 0 ; motif28 ( 0 0 1 0 0 0 0 0 3 ) : 0 ; motif29 ( 0 0 0 2 0 0 0 1 0 ) : 0 ; motif30 ( 0 0 0 2 0 0 0 0 1 ) : 0 ; motif31 ( 0 0 0 1 1 1 0 0 0 ) : 0 ; motif32 ( 0 0 0 1 1 0 1 0 0 ) : 0 ; motif33 ( 0 0 0 1 1 0 0 1 0 ) : 0 ; motif34 ( 0 0 0 1 1 0 0 0 1 ) : 0 ; motif35 ( 0 0 0 1 0 2 0 0 0 ) : 0 ; motif36 ( 0 0 0 1 0 1 1 0 0 ) : 0 ; motif37 ( 0 0 0 1 0 1 0 1 0 ) : 0 ; motif38 ( 0 0 0 1 0 1 0 0 1 ) : 0 ; motif39 ( 0 0 0 1 0 0 2 0 0 ) : 29 ; motif40 ( 0 0 0 1 0 0 1 1 0 ) : 0 ; motif41 ( 0 0 0 1 0 0 1 0 1 ) : 0 ; motif42 ( 0 0 0 1 0 0 0 2 0 ) : 0 ; motif43 ( 0 0 0 1 0 0 0 1 1 ) : 0 ; motif44 ( 0 0 0 1 0 0 0 0 3 ) : 0 ; motif45 ( 0 0 0 0 3 0 0 0 0 ) : 0 ; motif46 ( 0 0 0 0 2 1 0 0 0 ) : 0 ; motif47 ( 0 0 0 0 2 0 1 0 0 ) : 0 ; motif48 ( 0 0 0 0 2 0 0 1 0 ) : 0 ; motif49 ( 0 0 0 0 2 0 0 0 1 ) : 0 ; motif50 ( 0 0 0 0 1 2 0 0 0 ) : 0 ; motif51 ( 0 0 0 0 1 1 1 0 0 ) : 0 ; motif52 ( 0 0 0 0 1 1 0 1 0 ) : 0 ; motif53 ( 0 0 0 0 1 1 0 0 1 ) : 0 ; motif54 ( 0 0 0 0 1 0 2 0 0 ) : 0 ; motif55 ( 0 0 0 0 1 0 1 1 0 ) : 0 ; motif56 ( 0 0 0 0 1 0 1 0 1 ) : 0 ; motif57 ( 0 0 0 0 1 0 0 2 0 ) : 0 ; motif58 ( 0 0 0 0 1 0 0 1 2 ) : 0 ; motif59 ( 0 0 0 0 1 0 0 0 3 ) : 0 ; motif60 ( 0 0 0 0 0 3 0 0 0 ) : 0 ; motif61 ( 0 0 0 0 0 2 1 0 0 ) : 0 ; motif62 ( 0 0 0 0 0 2 0 1 0 ) : 0 ; motif63 ( 0 0 0 0 0 2 0 0 2 ) : 0 ; motif64 ( 0 0 0 0 0 1 2 0 0 ) : 0 ; motif65 ( 0 0 0 0 0 1 1 1 0 ) : -2147483648 ; motif66 ( 0 0 0 0 0 1 1 0 2 ) : -2147483648 ; motif67 ( 0 0 0 0 0 1 0 2 0 ) : 0 ; motif68 ( 0 0 0 0 0 1 0 1 2 ) : 0 ; motif69 ( 0 0 0 0 0 1 0 0 3 ) : 0 ; motif70 ( 0 0 0 0 0 0 3 0 0 ) : 0 ; motif71 ( 0 0 0 0 0 0 2 1 0 ) : 0 ; motif72 ( 0 0 0 0 0 0 2 0 2 ) : 0 ; motif73 ( 0 0 0 0 0 0 1 2 0 ) : 0 ; motif74 ( 0 0 0 0 0 0 1 1 2 ) : 0 ; motif75 ( 0 0 0 0 0 0 1 0 3 ) : 0 ; motif76 ( 0 0 0 0 0 0 0 3 1 ) : 0 ; motif77 ( 0 0 0 0 0 0 0 2 2 ) : 0 ; motif78 ( 0 0 0 0 0 0 0 1 3 ) : 0 ; motif79 ( 0 0 0 0 0 0 0 0 5 ) : 0 ; 
+Temps : 0.002000

@@ -1,0 +1,2 @@
+best fit : 33
+pour ranger : 13 7 8 6 9 5 14 13 5 11 

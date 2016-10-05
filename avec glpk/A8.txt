@@ -1,0 +1,19 @@
+Writing problem data to 'bin-packin.lp'...
+68 lines were written
+GLPK Simplex Optimizer, v4.52
+8 rows, 36 columns, 74 non-zeros
+      0: obj =   0.000000000e+00  infeas =  7.200e+01 (0)
+*     8: obj =   2.983333333e+01  infeas =  0.000e+00 (0)
+*     9: obj =   2.972222222e+01  infeas =  0.000e+00 (0)
+OPTIMAL LP SOLUTION FOUND
+GLPK Integer Optimizer, v4.52
+8 rows, 36 columns, 74 non-zeros
+36 integer variables, none of which are binary
+Integer optimization begins...
++     9: mip =     not found yet >=              -inf        (1; 0)
+Solution found by heuristic: 30
++    13: mip =   3.000000000e+01 >=     tree is empty   0.0% (0; 9)
+INTEGER OPTIMAL SOLUTION FOUND
+il faut 30 bin
+motif0 ( 1 0 0 0 0 1 0 0 ) : 5 ; motif1 ( 1 0 0 0 0 0 1 0 ) : 0 ; motif2 ( 1 0 0 0 0 0 0 1 ) : 0 ; motif3 ( 0 1 0 1 0 0 0 0 ) : 5 ; motif4 ( 0 1 0 0 1 0 0 0 ) : 5 ; motif5 ( 0 1 0 0 0 1 0 0 ) : 0 ; motif6 ( 0 1 0 0 0 0 1 0 ) : 0 ; motif7 ( 0 1 0 0 0 0 0 1 ) : 0 ; motif8 ( 0 0 2 0 0 0 0 0 ) : 0 ; motif9 ( 0 0 1 1 0 0 0 0 ) : 0 ; motif10 ( 0 0 1 0 1 0 0 0 ) : 0 ; motif11 ( 0 0 1 0 0 1 0 0 ) : 0 ; motif12 ( 0 0 1 0 0 0 1 1 ) : 0 ; motif13 ( 0 0 1 0 0 0 0 2 ) : 0 ; motif14 ( 0 0 0 2 0 0 0 0 ) : 0 ; motif15 ( 0 0 0 1 1 0 0 0 ) : 0 ; motif16 ( 0 0 0 1 0 1 0 1 ) : 0 ; motif17 ( 0 0 0 1 0 0 2 0 ) : 0 ; motif18 ( 0 0 0 1 0 0 1 1 ) : 0 ; motif19 ( 0 0 0 1 0 0 0 2 ) : 6 ; motif20 ( 0 0 0 0 2 0 0 1 ) : 0 ; motif21 ( 0 0 0 0 1 1 1 0 ) : 4 ; motif22 ( 0 0 0 0 1 1 0 1 ) : 0 ; motif23 ( 0 0 0 0 1 0 2 0 ) : 0 ; motif24 ( 0 0 0 0 1 0 1 1 ) : 0 ; motif25 ( 0 0 0 0 1 0 0 2 ) : 0 ; motif26 ( 0 0 0 0 0 3 0 0 ) : 0 ; motif27 ( 0 0 0 0 0 2 1 0 ) : 0 ; motif28 ( 0 0 0 0 0 2 0 1 ) : 0 ; motif29 ( 0 0 0 0 0 1 2 0 ) : 0 ; motif30 ( 0 0 0 0 0 1 1 1 ) : 0 ; motif31 ( 0 0 0 0 0 1 0 2 ) : 0 ; motif32 ( 0 0 0 0 0 0 3 0 ) : 0 ; motif33 ( 0 0 0 0 0 0 2 1 ) : 0 ; motif34 ( 0 0 0 0 0 0 1 2 ) : 0 ; motif35 ( 0 0 0 0 0 0 0 3 ) : 0 ; 
+Temps : 0.002000

@@ -1,0 +1,20 @@
+Writing problem data to 'bin-packin.lp'...
+83 lines were written
+GLPK Simplex Optimizer, v4.52
+9 rows, 46 columns, 92 non-zeros
+      0: obj =   0.000000000e+00  infeas =  8.100e+01 (0)
+*    10: obj =   3.841666667e+01  infeas =  0.000e+00 (0)
+*    12: obj =   3.550000000e+01  infeas =  0.000e+00 (0)
+OPTIMAL LP SOLUTION FOUND
+GLPK Integer Optimizer, v4.52
+9 rows, 46 columns, 92 non-zeros
+46 integer variables, none of which are binary
+Integer optimization begins...
++    12: mip =     not found yet >=              -inf        (1; 0)
+Solution found by heuristic: 37
+Solution found by heuristic: 36
++    13: mip =   3.600000000e+01 >=     tree is empty   0.0% (0; 3)
+INTEGER OPTIMAL SOLUTION FOUND
+il faut 36 bin
+motif0 ( 1 0 0 0 0 0 1 0 0 ) : 8 ; motif1 ( 1 0 0 0 0 0 0 1 0 ) : 1 ; motif2 ( 1 0 0 0 0 0 0 0 1 ) : 0 ; motif3 ( 0 2 0 0 0 0 0 0 0 ) : 3 ; motif4 ( 0 1 1 0 0 0 0 0 0 ) : 1 ; motif5 ( 0 1 0 1 0 0 0 0 0 ) : 0 ; motif6 ( 0 1 0 0 1 0 0 0 0 ) : 0 ; motif7 ( 0 1 0 0 0 1 0 0 0 ) : 0 ; motif8 ( 0 1 0 0 0 0 1 0 0 ) : 0 ; motif9 ( 0 1 0 0 0 0 0 1 0 ) : 0 ; motif10 ( 0 1 0 0 0 0 0 0 1 ) : 0 ; motif11 ( 0 0 2 0 0 0 0 0 0 ) : 0 ; motif12 ( 0 0 1 1 0 0 0 0 0 ) : 0 ; motif13 ( 0 0 1 0 1 0 0 0 0 ) : 0 ; motif14 ( 0 0 1 0 0 1 0 0 0 ) : -2147483648 ; motif15 ( 0 0 1 0 0 0 1 0 0 ) : 1 ; motif16 ( 0 0 1 0 0 0 0 1 0 ) : 4 ; motif17 ( 0 0 1 0 0 0 0 0 2 ) : 2 ; motif18 ( 0 0 0 2 0 0 0 0 0 ) : 1 ; motif19 ( 0 0 0 1 1 0 0 0 0 ) : 1 ; motif20 ( 0 0 0 1 0 1 0 0 0 ) : 1 ; motif21 ( 0 0 0 1 0 0 1 0 0 ) : 1 ; motif22 ( 0 0 0 1 0 0 0 1 1 ) : 1 ; motif23 ( 0 0 0 1 0 0 0 0 2 ) : 1 ; motif24 ( 0 0 0 0 2 0 0 0 0 ) : 0 ; motif25 ( 0 0 0 0 1 1 0 0 0 ) : 0 ; motif26 ( 0 0 0 0 1 0 1 0 1 ) : 0 ; motif27 ( 0 0 0 0 1 0 0 2 0 ) : 0 ; motif28 ( 0 0 0 0 1 0 0 1 1 ) : 0 ; motif29 ( 0 0 0 0 1 0 0 0 2 ) : 0 ; motif30 ( 0 0 0 0 0 2 0 0 1 ) : 0 ; motif31 ( 0 0 0 0 0 1 1 1 0 ) : 9 ; motif32 ( 0 0 0 0 0 1 1 0 1 ) : 7 ; motif33 ( 0 0 0 0 0 1 0 2 0 ) : 5 ; motif34 ( 0 0 0 0 0 1 0 1 1 ) : 12 ; motif35 ( 0 0 0 0 0 1 0 0 2 ) : 12 ; motif36 ( 0 0 0 0 0 0 3 0 0 ) : 13 ; motif37 ( 0 0 0 0 0 0 2 1 0 ) : 8 ; motif38 ( 0 0 0 0 0 0 2 0 1 ) : 9 ; motif39 ( 0 0 0 0 0 0 1 2 0 ) : 6 ; motif40 ( 0 0 0 0 0 0 1 1 1 ) : 0 ; motif41 ( 0 0 0 0 0 0 1 0 2 ) : 0 ; motif42 ( 0 0 0 0 0 0 0 3 0 ) : 0 ; motif43 ( 0 0 0 0 0 0 0 2 1 ) : 0 ; motif44 ( 0 0 0 0 0 0 0 1 2 ) : 0 ; motif45 ( 0 0 0 0 0 0 0 0 3 ) : 0 ; 
+Temps : 0.000000

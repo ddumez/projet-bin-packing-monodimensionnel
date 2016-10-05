@@ -1,0 +1,3 @@
+gpp part1.cpp -c && gpp part1.o -lglpk -lm && ./a.out jouet1.dat
+
+g++ part1.cpp -c && g++ part1.o -lglpk -lm && ./a.out jouet1.dat
